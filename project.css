@@ -1,0 +1,414 @@
+body{
+    background-color: white
+ }
+ .heading{
+     color: red;
+     padding-left: 35%;
+     margin-top: -55px;
+ }
+ 
+ .logo{
+     background-image: url(/secondry-logo.png);
+     background-repeat: no-repeat;
+     background-size: 70px 70px;
+     height: 70px;
+     margin-right: 90%;
+     margin-left: 1%;
+     width: 100px;
+     margin-top: 5px;
+ }
+ .logo2{
+     background-image: url(/logo.png);
+     background-repeat: no-repeat;
+     background-size: 70px 70px;
+     height: 70px;
+     margin-left: 90%;
+     margin-right: 1%;
+     width: 100px;
+     margin-top: -70px;
+ }
+ .container{
+     height: 1900px;
+     background-image: url(/sai-kiran-anagani-CqMCR-IXipE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 1245px 662px;
+    opacity: 85%;
+ }
+ .holi{
+     background-color: white;
+     margin-top: -50px;
+     width: 100%;
+     padding-bottom: 20px;
+ }
+ .a{
+     background-color: azure;
+     height: 550px;
+     width: 280px;
+     margin-left: 100px;
+     margin-top: -32px;
+ }
+ .b{
+     height: 350px;
+     width: 800px;
+     margin-left: 302px;
+     margin-top: -385px;
+     border-left: 0;
+ }
+ .ba{
+     font-size: 48px;
+     margin-left: 40%;
+     margin-top: 8%;
+     color: navy;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .bp{
+     font-size: 28px;
+     margin-left: 43%;
+     margin-top: -5%;
+     color: black;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .c{
+     background-image: url(/exterior.jpg);
+     background-repeat: no-repeat;
+     background-size: 400px;
+     background-color: whitesmoke;
+     height: 600px;
+     width: 30%;
+     margin-left: 20px;
+     margin-top: 20px;
+     text-align: center;
+ }
+ .cp{
+     font-size: larger;
+     padding-top: 10px;
+     margin-top: -5%;
+ }
+ .ch{
+     font-size: xx-large;
+     padding-top: 350px;
+ }
+ .d{
+     background-image: url(/Thailand.jpg);
+     background-repeat: no-repeat;
+     background-size: 400px;
+     background-color: whitesmoke;
+     height: 600px;
+     width: 30%;
+     margin-left: 430px;
+     margin-top: -632px;
+     text-align: center;
+ }
+ .dp{
+     font-size: larger;
+     margin-top: -5%;
+     padding: 10px;
+ }
+ .dh{
+     font-size: xx-large;
+     padding-top: 350px;
+ }
+ .e{
+     background-image: url(/Kashmir.jpg);
+     background-repeat: no-repeat;
+     background-size: 400px;
+     background-color: whitesmoke;
+     height: 600px;
+     width: 30%;
+     margin-left: 850px;
+     margin-top: -632px;
+     text-align: center;
+ }
+ .ep{
+     font-size: larger;
+     margin-top: -5%;
+     padding: 10px;
+ }
+ .eh{
+     font-size: xx-large;
+     padding-top: 350px;
+ }
+ .holidays{
+     margin-left: 550px;
+     font-size: xx-large;
+ }
+ .ul{
+     background-color: white;
+     padding: 10px;
+     padding-top: 3px;
+     padding-bottom: 3px;
+     margin-left:430px;
+     margin-right: 110px;
+ }
+ .h{
+     color: black;
+     border-bottom: 0;
+     margin-right: 20px;
+     font-size: large;
+ }
+ .h:hover{
+     color: brown;
+ }
+ .h:link{
+     text-decoration: none;
+ }
+ .m{
+     color: black;
+     border-bottom: 0;
+     margin-right: 20px;
+     font-size: large;
+ }
+ .m:hover{
+     color: brown;
+ }
+ .m:link{
+     text-decoration: none;
+ }
+ .hs{
+     color: black;
+     border-bottom: 0;
+     margin-right: 20px;
+     font-size: large;
+ }
+ .hs:hover{
+     color: brown;
+ }
+ .hs:link{
+     text-decoration: none;
+ }
+ .s{
+     color: black;
+     border-bottom: 0;
+     margin-right: 20px;
+     font-size: large;
+ }
+ .s:hover{
+     color: brown;
+ }
+ .s:link{
+     text-decoration: none;
+ }
+ .cu{
+     color: black;
+     border-bottom: 0;
+     margin-right: -140px;
+     font-size: large;
+ }
+ .cu:hover{
+     color: brown;
+ }
+ .cu:link{
+     text-decoration: none;
+ }
+ .bo{
+     margin-left: 20px;
+     font-size: xx-large;
+ }
+ .y{
+     margin-left: 100px;
+     font-size: xx-large;
+     margin-top: -15px;
+ }
+ .t{
+     margin-left: 45px;
+     font-size: xx-large;
+     margin-top: -15px;
+ }
+ .he{
+     margin-left: 160px;
+     font-size: xx-large;
+     margin-top: -18px;
+ }
+ .arrow{
+     border: solid black;
+     border-width: 0 3px 3px 0;
+     display: inline-block;
+     padding: 3px;
+ }
+ .up {
+     transform: rotate(-135deg);
+     -webkit-transform: rotate(-135deg);
+     margin-bottom: 5px;
+     margin-left: 35%;
+     padding-top: 13px;
+     
+ }
+ .down {
+     transform: rotate(45deg);
+     -webkit-transform: rotate(45deg);
+     padding-bottom: 15px;
+ }
+ #x{
+     border: 1px solid burlywood;
+     margin-left: 15px;
+     margin-bottom: -60px;
+     text-align: center;
+     width: 200px;
+     height: 30px;
+     text-align: left;
+     padding-left: 10px;
+     border-radius: 5px;
+ }
+ #x:hover{
+     border: 1.5px solid black;
+     transition-delay: 1ms;
+ }
+ #y{
+     border: 1px solid burlywood;
+     margin-left: 15px;
+     margin-bottom: -60px;
+     text-align: center;
+     width: 200px;
+     height: 30px;
+     text-align: left;
+     padding-left: 10px;
+     border-radius: 5px;
+ }
+ #y:hover{
+     border: 1.5px solid black;
+     transition-delay: 1ms;
+ }
+ #d{
+     border: 1px solid burlywood;
+     margin-left: 15px;
+     width: 200px;
+     height: 30px;
+     padding-left: 10px;
+     border-radius: 5px;
+ }
+ #d:hover{
+     border: 1.5px solid black;
+     transition-delay: 1ms;
+ }
+ .date{
+     margin-top: 0px;
+     margin-bottom: 5px;
+     margin-left: 20px;
+     font-size: large;
+ }
+ #all{
+     border: 1px solid burlywood;
+     margin-left: 15px;
+     margin-bottom: -60px;
+     text-align: center;
+     width: 150px;
+     height: 35px;
+     border-radius: 20px;
+ }
+ #all:hover{
+     border: 1.5px solid black;
+     transition-delay: 1ms;
+ }
+ #ft{
+     color: azure;
+     border: 2px solid rgb19, 117, 214();
+     margin-left: 15px;
+     margin-bottom: -60px;
+     text-align: center;
+     height: 30px;
+     width: 100px;
+     border-radius: 10px;
+     background-color: rgb(19, 117, 214);
+ }
+ #ft:hover{
+     border: 1.5px solid black;
+ }
+ 
+ .right{
+     margin-left: 80%;
+     margin-top: -3%;
+ }
+ .ryt{
+     margin-left: 80%;
+     margin-top: -1%;
+ }
+ .rite{
+     color: blueviolet;
+     margin-left: 93%;
+     margin-top: -4%;
+     font-size: 12px;
+ }
+ .rite:link{
+     text-decoration: none;
+ }
+ .pnr{
+     background-color: rgba(0, 0, 0, 0.918);
+     width: 280px;
+     font-size: 30px;
+     margin-top: -20px;
+     margin-left: 100px;
+     text-align: center;
+ }
+ .pnr1{
+     color: white;
+ }
+ .pnr1:link{
+     text-decoration: none;
+ }
+ .adv{
+    background-image: url(/1st.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60px;
+    width: 75%;
+    margin-top: -90px;
+}
+ .advertisement{
+     height: 130px;
+     width: 100%;
+     margin-top: 100px;
+     background-image: url(/Advertisement.jfif);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: whitesmoke;
+ }
+ .social{
+     height: 60px;
+     width: 100%;
+     margin-top: -20px;
+     margin-bottom: 50px;
+     background-image: linear-gradient(-270deg,#9b4b90 0, #2c215d);
+     color: white;
+     font-size: 18px;
+ }
+ .soc{
+     margin-left: 170px;
+     padding-top: 20px;
+ }
+ .copy{
+     margin-top: 55px;
+ }
+ .Harshit{
+     color: black;
+     background-color: darkgoldenrod;
+     text-decoration: none;
+     margin-right: 15px;
+     margin-left: 50px;
+     border-radius: 15px;
+     padding: 10px;
+ }
+ .Raghav{
+    color: black;
+    background-color: darkgoldenrod;
+    text-decoration: none;
+    margin-right: 15px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.Souhardya{
+    color: black;
+    background-color: darkgoldenrod;
+    text-decoration: none;
+    margin-right: 15px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.corona{
+    height: 300px;
+    margin-top: -370px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-image: url(/Coronaa.jfif);
+    background-repeat: no-repeat;
+    background-size: 1200px 300px;
+}
